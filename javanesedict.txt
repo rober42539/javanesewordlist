@@ -1,0 +1,5 @@
+#	Copyright (C) 2019 Your Name Here.
+word1
+word2
+....
+word70000
